@@ -46,9 +46,7 @@ VoiceForge enables **hands-free coding** using advanced speech recognition. User
   - **Tailwind CSS** 🎨 for sleek UI design
 - **Tools Used**: VS Code, Webpack, Firebase (for deployment)
 
-#### **Hardware (If Applicable)**:
 
-- Computer running Windows/Linux/macOS 💻
 
 ---
 
@@ -97,7 +95,8 @@ VoiceForge enables **hands-free coding** using advanced speech recognition. User
 ![3](https://github.com/user-attachments/assets/b83dff60-6658-4b4d-9f05-2b391211a1e7)
 ![4](https://github.com/user-attachments/assets/8893fbcb-dd1b-412a-823f-6b2438ff31a9)
 
-
+###VIDEO 
+https://www.loom.com/share/2c247aacc8fc471c92b259f34d82f019?sid=2ee2396c-e83d-4e44-912f-14db1d41c5ca
 ### **Diagrams**
 
 #### **Workflow Diagram**
@@ -109,7 +108,8 @@ VoiceForge enables **hands-free coding** using advanced speech recognition. User
 
 
 
----
+---![WhatsApp Image 2025-02-02 at 10 36 50_ffef496c](https://github.com/user-attachments/assets/47499538-4575-4bea-8fdd-c75eb9446929)
+
 
 ## Team Contributions 👩‍💻👨‍💻
 
